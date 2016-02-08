@@ -1,0 +1,39 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~   Copyright (c) 2016 Kamesh Sampath<kamesh.sampath@hotmail.com)
+  ~
+  ~   Licensed under the Apache License, Version 2.0 (the "License");
+  ~   you may not use this file except in compliance with the License.
+  ~   You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~   Unless required by applicable law or agreed to in writing, software
+  ~   distributed under the License is distributed on an "AS IS" BASIS,
+  ~   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~   See the License for the specific language governing permissions and
+  ~   limitations under the License.
+  ~
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <dimen name="movie_poster_dps">160dp</dimen>
+
+    <dimen name="movie_poster_card_height">320dp</dimen>
+    <dimen name="movie_poster_card_width">320dp</dimen>
+
+    <dimen name="movie_title_txt_size">32sp</dimen>
+    <dimen name="movie_subtitle_txt_size">30sp</dimen>
+    <dimen name="movie_details_margin_top">0dp</dimen>
+    <dimen name="movie_synopsis_margin_bottom">16dp</dimen>
+    <dimen name="details_movie_time_txt_size">18sp</dimen>
+    <dimen name="details_movie_year_txt_size">22sp</dimen>
+    <dimen name="details_movie_syn_txt_size">?android:text</dimen>
+    <dimen name="movie_details_poster_size">320dp</dimen>
+
+    <dimen name="review_content_txt_size">16sp</dimen>
+    <dimen name="review_author_txt_size">18sp</dimen>
+    <dimen name="list_item_height">72dp</dimen>
+    <dimen name="drawer_item_txt_size">16sp</dimen>
+
+</resources>
